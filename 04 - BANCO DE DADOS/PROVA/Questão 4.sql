@@ -25,8 +25,7 @@ id    name                      login           password
 5	  Roger N. Brownfield	    Worseente	    fah7ohN	 
 
 
---SELECT 
-SELECT id, password,md5(password) FROM ACCOUNT;
+
 
 -- EXEMPLO DE SAÍDA ESPERADO
 id	    password	    MD5
