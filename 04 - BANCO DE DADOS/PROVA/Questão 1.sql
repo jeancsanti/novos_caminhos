@@ -23,6 +23,6 @@ VALUES
   (5,	'João Almeida Lima',	'Rua Rio Taiuva',	'Ponta Grossa'),
   (6,	'Diogo Melo Dias',	'Rua Duzentos e Cinqüenta',	'Várzea Grande');
   
-
+SELECT DISTINCT city FROM customers;
 /*  Execute this query to drop the tables */
 -- DROP TABLE customers; --
